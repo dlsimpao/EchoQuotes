@@ -1,0 +1,25 @@
+auth = sample
+|request = create
+|quote = But I also know something less commonly understood: that change and loss travel together. We can't have change without loss, which is why so often people say they want change but nonetheless stay exactly the same.
+|source = Maybe You Should Talk to Someone
+|author = Lori Gottlieb
+
+auth = sample
+|request = readAll
+
+auth = sample
+|request = delete
+|id = 93369823dfe0dba475285fff4040d84494821f8e476d2f9e36a1ca000f5c19f3fake
+
+auth = sample
+|request = create
+|quote = I know of no more encouraging fact than the unquestionable ability of man to elevate his life by death
+|source = Where I Livef, and What I Died For
+|author = Henryr David throw
+
+auth = sample
+|id = <id>
+|request = update
+|quote = I know of no more encouraging fact than the unquestionable ability of man to elevate his life by conscious endeavor.
+|source = Where I Lived, and What I Lived For
+|author = Henry David Thoreau
